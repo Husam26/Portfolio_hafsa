@@ -1,5 +1,5 @@
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
-import Navbar from "./components/Navbar"; // navbar import
+import Navbar from "./components/Navbar"; 
 import HomePage from "./pages/HomePage";
 import Sem1 from "./pages/Sem1";
 import Sem2 from "./pages/Sem2";
@@ -9,10 +9,7 @@ import Sem4 from "./pages/Sem4";
 export default function App() {
   return (
     <Router>
-      {/* Navbar har page par visible rahega */}
       <Navbar />
-
-      {/* Pages switch honge yaha */}
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/sem-1" element={<Sem1 />} />
