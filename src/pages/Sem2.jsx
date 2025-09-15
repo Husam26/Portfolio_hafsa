@@ -76,7 +76,33 @@ function SectionCard({
 
 export default function Sem2() {
   const sections = [
-    
+    {
+      title: "ART IN EDUCATION {VISUAL ARTS} ACTIVITY : DRAWING",
+      imgs: [
+        'drawing_1.jpg',
+        'drawing_2.jpg',
+        
+
+      ],
+      imgLabels: ["Drawing 1", "Drawing 2", "Drawing 3"],
+    },
+    {
+      title:
+        "ART IN EDUCATION {VISUAL ARTS} ACTIVITY : PAPER CUTTING AND PAPER FOLDING",
+      imgs: [
+        'papercut_1.jpg',
+        'papercut_2.jpg',
+ 
+      
+      
+      ],
+      imgLabels: ["Paper Cutting 1", "Paper Folding 1", "Paper Craft 1"],
+    },
+    {
+      title: "ART IN EDUCATION {VISUAL ARTS} ACTIVITY : CLAY MODELLING",
+      imgs: ["claymodelling.jpg"],
+      imgLabels: ["Clay Modelling 1"],
+    },
     {
       title: "ART IN EDUCATION {VISUAL ARTS} ACTIVITY : MEHANDI DESIGNING",
       imgs: [
@@ -85,11 +111,6 @@ export default function Sem2() {
     
       ],
       imgLabels: ["Mehandi Design 2"],
-    },
-    {
-      title: "ART IN EDUCATION {VISUAL ARTS} ACTIVITY : CLAY MODELLING",
-      imgs: ["claymodelling.jpg"],
-      imgLabels: ["Clay Modelling 1"],
     },
     {
       title: "ART IN EDUCATION {PERFORMING ARTS} ACTIVITY : SINGING 🎤🎶🎻",
