@@ -88,10 +88,6 @@ export default function Sem4() {
       
       ],
       imgLabels: ["Morning Exercise", "Morning Prayer"],
-      videos: [
-        "https://www.youtube.com/embed/JvuAcDCGICI",
-        "https://www.youtube.com/embed/qJy9Kla5M4s",
-      ],
     },
     {
       title: "MEHNDI DESIGNING",
@@ -107,7 +103,6 @@ export default function Sem4() {
       
       ],
       imgLabels: ["Mehndi Design 1", "Mehndi Design 2", "Mehndi Design 3"],
-      videos: "https://www.youtube.com/embed/BOW5Sndxy4k",
     },
     {
       title: "PAPER CUTTING",
@@ -154,7 +149,6 @@ export default function Sem4() {
       
       ],
       imgLabels: ["Drawing 1", "Drawing 2"],
-      videos: "https://www.youtube.com/embed/A-TP7_9oDNQ",
     },
     {
       title: "SCIENCE CLASS",

@@ -87,7 +87,6 @@ export default function Sem3() {
     
     ],
     imgLabels: ['Freshers Party 1', 'Freshers Party 2', 'Freshers Party 3'],
-    videos: 'https://www.youtube.com/embed/48fIC1JLtF4'
   },
   {
     title: "TRIP TO WONDERLA",
@@ -100,7 +99,6 @@ export default function Sem3() {
     
     ],
     imgLabels: ['Wonderla 1', 'Wonderla 2', 'Wonderla 3', 'Wonderla 4'],
-    videos: 'https://www.youtube.com/embed/Gv_-qFroIjk'
   },
   {
     title: "SANKRANTI CELEBRATIONS",
@@ -115,9 +113,6 @@ export default function Sem3() {
 
     
     ],
-    videos: [
-      "https://www.youtube.com/embed/9gsWGX44Gzg"
-    ]
   },
   {
   title: "REPUBLIC DAY CELEBRATIONS - SPORTS",
@@ -137,7 +132,6 @@ export default function Sem3() {
     "sports (12).jpg"
   ],
   
-  videos: "https://www.youtube.com/embed/QhD9Mr39fWs"
 }
 ,
   {
@@ -150,7 +144,6 @@ export default function Sem3() {
     
     ],
     imgLabels: ["Seminar Session 1", "Seminar Session 2"],
-    videos: "https://www.youtube.com/embed/9_8evCr9zqU"
   }
 ];
 

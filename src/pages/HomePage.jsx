@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 export default function HomePage() {
   const infoData = [
-    ["Roll No:", "3311-23-701-054"],
+    ["Roll No:", "3311-23-701-053"],
     ["College:", "ST. MARY'S COLLEGE OF EDUCATION"],
     ["Method 1:", "BIOLOGICAL SCIENCE"],
     ["Method 2:", "ENGLISH"],

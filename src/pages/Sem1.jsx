@@ -89,7 +89,6 @@ export default function Sem1() {
         'Christmas (1).jpg',
         'Christmas (2).jpg',
       ],
-      videos: ["https://www.youtube.com/embed/6JAhX6vCb2Y?si=gbGtuXYSFOQfCrIO"],
     },
     {
       title: "Sports for Republic Day",
@@ -114,11 +113,6 @@ export default function Sem1() {
         'ind2.jpg',
         'hero-image.jpg'
       ],
-      videos: [
-        "https://www.youtube.com/embed/xEh-Z8DlbUk",
-        "https://www.youtube.com/embed/1MAQRP4XNBc",
-        "https://www.youtube.com/embed/pX6RhlLOlfk",
-      ],
     },
     {
       title: "Fresher's Party 🥳🎉🎊",
@@ -128,7 +122,6 @@ export default function Sem1() {
         'freshersparty_2.jpg',
         'freshersparty_3.jpg',
       ],
-      videos: ["https://www.youtube.com/embed/HBasRTcZhBU"],
     },
     {
       title: "🩺 NATIONAL SCIENCE DAY EVENT 🧬🌡️",
